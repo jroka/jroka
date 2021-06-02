@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jroka
+- 👀 I’m interested in Linux, SQL, PHP, JavaScript, webhosting, sysadmin, devops.
+- 🌱 I’m currently learning github :P
+- 💞️ I’m looking to collaborate on new cool projects
+- 📫 How to reach me, send an email to jsaettemucsi@rokahosting.com 
